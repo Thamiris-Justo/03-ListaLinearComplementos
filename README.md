@@ -8,3 +8,5 @@ Faça um fork deste repositorio e implemente a função exlcuirElemento
 * Se encontrado exclue o elemento e atualiza a quantidade de elementos na lista
 * Se não econtrado exibe "elemento não encontrado" 
 
+FEITO COM NIKOLY SILVA
+Thamiris Justo - email: thamiris.justo@fatec.sp.gov.br
